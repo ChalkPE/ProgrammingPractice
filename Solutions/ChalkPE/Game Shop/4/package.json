@@ -1,0 +1,30 @@
+{
+  "name": "game-shop-part-4",
+  "version": "1.0.0",
+  "description": "Game Shop, Part 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard",
+    "start": "babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utilForever/ProgrammingPractice.git"
+  },
+  "keywords": [
+    "programming",
+    "practice"
+  ],
+  "author": "ChalkPE <chalk@chalk.pe>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/utilForever/ProgrammingPractice/issues"
+  },
+  "homepage": "https://github.com/utilForever/ProgrammingPractice#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-stage-2": "^6.24.1",
+    "standard": "^10.0.2"
+  }
+}
